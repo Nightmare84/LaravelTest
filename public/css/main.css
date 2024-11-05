@@ -1,0 +1,12 @@
+
+.jumbotron {
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+
+.sidebar-module {
+    margin-left: -15px;
+    padding: 1px 15px 5px 15px;
+    background-color:beige;
+}

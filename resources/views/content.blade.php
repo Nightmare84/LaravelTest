@@ -1,0 +1,1 @@
+<div>This is default content</div>
